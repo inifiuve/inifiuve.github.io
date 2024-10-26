@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://inifiuve.github.io/sitemap_index.inifiuve
